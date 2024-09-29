@@ -9,6 +9,7 @@ If you are interested in acquiring some of these items, please check out my stor
 - [TRS-80 Model 1](https://github.com/RetroStack/TRS-80-Model-I)
 - [TRS-80 Model 3](https://github.com/RetroStack/TRS-80-Model-3)
 - [TRS-80 Model 4](https://github.com/RetroStack/TRS-80-Model-4)
+- [Sorcerer DreamDisk](https://github.com/RetroStack/Sorcerer_DreamDisk)
 
 ### Non-System-Specific Repositories
 
